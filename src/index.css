@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+
+@font-face {
+    font-family: 'vazirmatn';
+    src: url(/fonts/Vazirmatn-Medium.ttf);
+}
+
+body {
+    font-family: 'vazirmatn';
+}
